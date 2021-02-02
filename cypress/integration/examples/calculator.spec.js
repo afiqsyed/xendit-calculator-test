@@ -148,7 +148,7 @@ context('Actions', () => {
               value3: '0',
               operator3: '.',
               value4: '001',
-              result: '0'
+              result: '10745'
           },
           {
               value1: '445',
@@ -158,7 +158,7 @@ context('Actions', () => {
               value3: '6',
               operator3: '.',
               value4: '12',
-              result: '0'
+              result: '72.7124183'
           },
           {
               value1: '1',
